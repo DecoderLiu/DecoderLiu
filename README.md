@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DecoderLiu (Langchen Liu) from University of Pennsylvania. I am currently a PhD student in the department of AMCS.
-- 👀 I’m interested in studying machine learning from a mathematical perspective. 
-- 🌱 I’m currently learning introductory level graduate mathematics courses, like functional analysis.
-- 📫 Working email: langchen@sas.upenn.edu, personal: langchen.liu@gmail.com
+- 👋 Hi, I’m @DecoderLiu (Langchen Liu) from Yale University. I am currently a 3rd year PhD student in the Department of Statistics & Data Science.
+- 👀 I’m interested in foundation models, scientific machine learning, LLMs, PDE discovery, and federated learning. 
+- 🌱 I've finished my Ph.D. qualification exams (finally!). Looking forward to the date of graduation.
+- 📫 Working email: langchen.liu@yale.edu, personal: langchen.liu@gmail.com
 
 <!---
 DecoderLiu/DecoderLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

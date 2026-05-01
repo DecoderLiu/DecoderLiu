@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=34&pause=900&color=2457C5&center=true&vCenter=true&width=900&height=92&lines=Langchen+Liu;Scientific+Machine+Learning;Foundation+Models+for+Science;PDE+Discovery+%7C+Federated+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=34&pause=900&color=2457C5&center=true&vCenter=true&width=900&height=92&lines=Langchen+Liu;Symbolic+PDE+Discovery;Foundation+Models+for+Science;FoundPDE+%E2%86%92+PDEScientist)](https://git.io/typing-svg)
 
 **PhD student in Statistics & Data Science at Yale University**<br>
-Building machine learning systems for scientific structure, reasoning, and discovery.
+Studying how foundation-model and agentic AI methods can discover symbolic partial differential equations from spatiotemporal data.
 
 [![Website](https://img.shields.io/badge/Website-decoderliu.github.io-2457C5?style=for-the-badge&logo=githubpages&logoColor=white)](https://decoderliu.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-CQZcPZQAAAAJ-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=CQZcPZQAAAAJ)
@@ -14,29 +14,31 @@ Building machine learning systems for scientific structure, reasoning, and disco
 
 ---
 
-## Research Focus
+## Current Research Arc
 
-I am interested in machine learning systems that can recover, represent, and reason about scientific structure.
+My current work is organized around one technical spine:
+
+> **Symbolic PDE discovery with foundation models and agentic scientific-discovery systems.**
 
 | Direction | What I care about |
 | --- | --- |
-| **Foundation Models for Science** | Modeling scientific data, simulation outputs, and reasoning-heavy research tasks. |
-| **Scientific Machine Learning** | Learning structure from differential equations, physical systems, and computational science problems. |
-| **PDE Discovery** | Recovering interpretable equations and dynamics from data. |
-| **Federated Learning** | Training across distributed or institution-separated data settings. |
+| **FoundPDE** | A generative, pre-trained data-to-symbol model that maps numerical solution data to symbolic PDE expressions. |
+| **Sparse-data symbolic discovery** | Recovering governing equations from limited observations while keeping the discovered structure interpretable. |
+| **Compositional generalization** | Extending beyond the pretraining distribution through few-shot adaptation and step-by-step recovery of composite equations. |
+| **PDEScientist** | Agentic PDE discovery: an LLM-style system proposes equations, analyzes data, calls evaluators, fits coefficients, and refines hypotheses over turns. |
+| **Scientific evaluation** | Building PDE-specific evaluation loops where targets, features, residuals, and coefficient optimization are controlled by the evaluator rather than the model. |
+
+## Technical Style
+
+- I like problems where machine learning has to produce scientific structure, not only low prediction error.
+- I work with numerical PDE data, symbolic expressions, coefficient fitting, and evaluator-controlled validation loops.
+- I am especially interested in systems that can propose hypotheses, test them against data, and revise them based on tool feedback.
 
 ## Academic Path
 
 - **Yale University** — PhD student, Statistics & Data Science
 - **University of Pennsylvania** — PhD student, Applied Mathematics and Computational Science
 - **Duke University / Duke Kunshan University** — BSc, Applied Mathematics
-
-## GitHub Snapshot
-
-<div align="center">
-  <img height="165" alt="Langchen Liu GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DecoderLiu&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="165" alt="Langchen Liu top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoderLiu&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-</div>
 
 ## Contribution Trace
 

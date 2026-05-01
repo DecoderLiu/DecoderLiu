@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @DecoderLiu (Langchen Liu) from Yale University. I am a 3rd year PhD student in the Department of Statistics & Data Science.
-- 👀 I’m interested in foundation models, scientific machine learning, LLMs, PDE discovery, and federated learning. 
-- 🌱 I've finished my Ph.D. qualification exams (finally!). Looking forward to the date of graduation.
-- 🎮 I play many video games, and Overwatch 2 is my favorite. Feel free to DM me for my Battle.net ID so we can play together.
-- 📫 Working email: langchen.liu@yale.edu, personal: langchen.liu@gmail.com
+# Langchen Liu
 
-<!---
-DecoderLiu/DecoderLiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD student in **Statistics & Data Science at Yale University**, working on foundation models, scientific machine learning, LLMs, PDE discovery, and federated learning.
+
+[Personal website](https://decoderliu.github.io) ·
+[Google Scholar](https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ) ·
+[Email](mailto:langchen.liu@yale.edu)
+
+---
+
+### Current Focus
+
+I am interested in machine learning systems that can recover, represent, and reason about scientific structure. My current work spans:
+
+- foundation models for scientific domains
+- large language models and agentic research workflows
+- PDE discovery and scientific machine learning
+- federated learning and distributed training settings
+
+### Academic Path
+
+- **Yale University** — PhD student, Statistics & Data Science
+- **University of Pennsylvania** — PhD student, Applied Mathematics and Computational Science
+- **Duke University / Duke Kunshan University** — BSc, Applied Mathematics
+
+### Personal
+
+I have finished my PhD qualification exams. Outside research, I play video games, with Overwatch 2 as a long-running favorite.
+
+---
+
+The full personal website lives at **[decoderliu.github.io](https://decoderliu.github.io)**.

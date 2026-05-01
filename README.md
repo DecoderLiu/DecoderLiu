@@ -3,8 +3,9 @@
 PhD student in **Statistics & Data Science at Yale University**, working on foundation models, scientific machine learning, LLMs, PDE discovery, and federated learning.
 
 [Personal website](https://decoderliu.github.io) ·
-[Google Scholar](https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ) ·
-[Email](mailto:langchen.liu@yale.edu)
+[LinkedIn](https://www.linkedin.com/in/langchen-liu/) ·
+[Publications](https://aclanthology.org/people/langchen-liu/) ·
+[Email: langchen.liu@yale.edu](mailto:langchen.liu@yale.edu)
 
 ---
 

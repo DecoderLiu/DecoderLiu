@@ -4,6 +4,7 @@ PhD student in **Statistics & Data Science at Yale University**, working on foun
 
 [Personal website](https://decoderliu.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/langchen-liu/) ·
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=CQZcPZQAAAAJ) ·
 [Publications](https://aclanthology.org/people/langchen-liu/) ·
 [Email: langchen.liu@yale.edu](mailto:langchen.liu@yale.edu)
 

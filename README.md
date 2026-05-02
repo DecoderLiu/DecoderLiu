@@ -28,6 +28,15 @@ My current work is organized around one technical spine:
 | **PDEScientist** | Agentic PDE discovery: an LLM-style system proposes equations, analyzes data, calls evaluators, fits coefficients, and refines hypotheses over turns. |
 | **Scientific evaluation** | Building PDE-specific evaluation loops where targets, features, residuals, and coefficient optimization are controlled by the evaluator rather than the model. |
 
+## Start Here
+
+| Page | Why it is useful |
+| --- | --- |
+| **[Personal website](https://decoderliu.github.io)** | Clean overview of my research, projects, publications, and blog. |
+| **[FoundPDE](https://decoderliu.github.io/projects/foundpde/)** | Current foundation-model project for symbolic PDE discovery. |
+| **[PDEScientist](https://decoderliu.github.io/projects/pdescientist/)** | Forward-looking agentic discovery project. |
+| **[Reading Markowitz 1952 Through Geometry](https://decoderliu.github.io/blog/markowitz-portfolio-selection/)** | Example of my research-note style: math, figures, references, and an interactive widget. |
+
 ## Technical Style
 
 - I like problems where machine learning has to produce scientific structure, not only low prediction error.

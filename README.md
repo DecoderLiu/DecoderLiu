@@ -16,6 +16,7 @@ Studying how LLM agents, foundation models, and classical methods discover gover
 
 ## Recent
 
+- **Oct 2026** — *FoundPDE: A generative foundation model for data-driven symbolic discovery of partial differential equations* is on [arXiv](https://arxiv.org/abs/2610.26963).
 - **Oct 2026** — PDEScientist received an award from Anthropic's AI for Science Program.
 - **Oct 2026** — *SciExam for ENSO: Can AI Agents Build Climate Models?* is on [arXiv](https://arxiv.org/abs/2610.10513).
 - **Fall 2026** — PDEDiscoveryBench is under review.
@@ -31,7 +32,7 @@ My current work is organized around one technical spine:
 | --- | --- |
 | **PDEDiscoveryBench** (under review) | A benchmark for discovering governing equations from observations: 337 ODE/PDE systems, classical equation-discovery methods and tool-using LLM agents, three levels of disclosed scientific prior, and four noise tiers. Results depend strongly on the scientific prior a method receives, at every noise level. |
 | **SciExam for ENSO** ([arXiv](https://arxiv.org/abs/2610.10513)) | Can AI agents build climate models? Agents build low-order stochastic models of El Niño-Southern Oscillation from real observations, and hidden graders score them the same way as a published reference model; the final models of 6 of the 12 agent systems exceed the reference model's composite score. |
-| **FoundPDE** (manuscript) | A generative, pre-trained data-to-symbol model that maps numerical solution data to symbolic PDE expressions. |
+| **FoundPDE** ([arXiv](https://arxiv.org/abs/2610.26963)) | A generative, pre-trained data-to-symbol model that maps numerical solution data to symbolic PDE expressions. |
 | **Sparse-data symbolic discovery** | Recovering governing equations from limited observations while keeping the discovered structure interpretable. |
 | **Compositional generalization** | Extending beyond the pretraining distribution through few-shot adaptation and step-by-step recovery of composite equations. |
 | **PDEScientist** (next) | An AI researcher for equation discovery: frontier LLM reasoning combined with sparse regression, symbolic regression, and simulation, run as a loop of observe, choose a method, extract evidence, design an experiment, validate, and improve the strategy. Supported by Anthropic's AI for Science Program. |
@@ -44,7 +45,7 @@ My current work is organized around one technical spine:
 | **[Personal website](https://decoderliu.github.io)** | Clean overview of my research, projects, publications, and blog. |
 | **[PDEDiscoveryBench](https://decoderliu.github.io/projects/pdediscoverybench/)** | Benchmark comparing classical equation-discovery methods and LLM agents under controlled priors and noise (under review). |
 | **[SciExam for ENSO](https://decoderliu.github.io/publications/sciexam-enso/)** | Can AI agents build climate models? Paper page, with the preprint at [arXiv:2610.10513](https://arxiv.org/abs/2610.10513). |
-| **[FoundPDE](https://decoderliu.github.io/projects/foundpde/)** | Current foundation-model project for symbolic PDE discovery. |
+| **[FoundPDE](https://decoderliu.github.io/projects/foundpde/)** | Foundation-model project for symbolic PDE discovery, with the preprint at [arXiv:2610.26963](https://arxiv.org/abs/2610.26963). |
 | **[PDEScientist](https://decoderliu.github.io/projects/pdescientist/)** | Next-stage auto-discovery agent, supported by Anthropic's AI for Science Program. |
 | **[Reading Markowitz 1952 Through Geometry](https://decoderliu.github.io/blog/markowitz-portfolio-selection/)** | Example of my research-note style: math, figures, references, and an interactive widget. |
 
